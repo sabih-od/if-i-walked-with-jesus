@@ -8,12 +8,12 @@
             <div class="col-md-3 mb-5">
                 <div class="quickList">
                     <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About Me</a></li>
-                        <li><a href="#">Daily Bible Study & Questions</a></li>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="about.php">About Me</a></li>
+                        <li><a href="daily-bible-study-questions.php">Daily Bible Study & Questions</a></li>
                         <li><a href="#">Bible Tips</a></li>
-                        <li><a href="#">Lessons Learned on Daddy’s Lap</a></li>
-                        <li><a href="#">Outside Resources</a></li>
+                        <li><a href="lessons-learnned-on-daddys-lap.php">Lessons Learned on Daddy’s Lap</a></li>
+                        <li><a href="outside-resources.php">Outside Resources</a></li>
                         <li><a href="#">Forum</a></li>
                         <li><a href="#">Android App</a></li>
                         <li><a href="#">Facebook</a></li>
@@ -54,22 +54,13 @@
 </footer>
 <!-- END: Footer -->
 
-<!-- <div id="search">
-    <button class="close" type="button">×</button>
-    <form>
-        <input placeholder="SEARCH" type="search" value="">
-        <div class="srch-btn">
-            <a href="#" class="themeBtn">Search</a>
-        </div>
-    </form>
-</div> -->
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="js/all.min.js"></script>
-<!-- <script src="js/aos.js"></script> -->
-<!-- <script src="js/gsap.js"></script> -->
-<!-- <script src="js/scrollTrigger.js"></script> -->
+<script src="js/aos.js"></script> 
+<script src="js/gsap.js"></script>
+<script src="js/scrollTrigger.js"></script>
 <script src="js/custom.min.js"></script>
 
 

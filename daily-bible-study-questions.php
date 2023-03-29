@@ -1,24 +1,20 @@
 <?php include 'include/header.php' ?>
-<title>Demo</title>
+<title>If I walk with Jesus</title>
 </head>
 
 <body>
     <?php include 'include/menu.php'; ?>
-    <!-- <div class="preLoader black">
-        <img src="images/logo.png" alt="img">
-    </div>
-    <div class="preLoader white"></div> -->
 
     <section class="innerpage">
-        <h2>DAILY BIBLE STUDY & QUESTIONS</h2>
+        <h2 class="slideOne">DAILY BIBLE STUDY & QUESTIONS</h2>
     </section>
 
     <section class="dailySection">
         <div class="container">
-            <h2 class="heading text-center mb-4">DAILY BIBLE STUDY & QUESTIONS</h2>
+            <h2 class="heading text-center mb-4 slideTwo">DAILY BIBLE STUDY & QUESTIONS</h2>
             <div class="row">
                 <div class="col-md-4 mt-4">
-                    <div class="card border-0">
+                    <div class="card border-0" data-aos="fade-up">
                         <img src="images/daily1.png" alt="">
                         <div class="card-body px-0">
                             <span>MARCH 24 2023</span>
@@ -29,7 +25,7 @@
                     </div>
                 </div>
                 <div class="col-md-4 mt-4">
-                    <div class="card border-0">
+                    <div class="card border-0" data-aos="fade-up">
                         <img src="images/daily2.png" alt="">
                         <div class="card-body px-0">
                             <span>MARCH 23 2023</span>
@@ -40,7 +36,7 @@
                     </div>
                 </div>
                 <div class="col-md-4 mt-4">
-                    <div class="card border-0">
+                    <div class="card border-0" data-aos="fade-up">
                         <img src="images/daily3.png" alt="">
                         <div class="card-body px-0">
                             <span>MARCH 22 2023</span>
@@ -51,7 +47,7 @@
                     </div>
                 </div>
                 <div class="col-md-4 mt-4">
-                    <div class="card border-0">
+                    <div class="card border-0" data-aos="fade-up" >
                         <img src="images/daily4.png" alt="">
                         <div class="card-body px-0">
                             <span>MARCH 21 2023</span>
@@ -62,7 +58,7 @@
                     </div>
                 </div>
                 <div class="col-md-4 mt-4">
-                    <div class="card border-0">
+                    <div class="card border-0" data-aos="fade-up">
                         <img src="images/daily5.png" alt="">
                         <div class="tag">
                         Featured Post
@@ -76,7 +72,7 @@
                     </div>
                 </div>
                 <div class="col-md-4 mt-4">
-                    <div class="card border-0">
+                    <div class="card border-0" data-aos="fade-up">
                         <img src="images/daily6.png" alt="">
                         <div class="card-body px-0">
                             <span>MARCH 19 2023</span>
@@ -87,7 +83,7 @@
                     </div>
                 </div>
                 <div class="col-md-4 mt-4">
-                    <div class="card border-0">
+                    <div class="card border-0" data-aos="fade-up">
                         <img src="images/daily7.png" alt="">
                         <div class="card-body px-0">
                             <span>MARCH 18 2023</span>
@@ -98,7 +94,7 @@
                     </div>
                 </div>
                 <div class="col-md-4 mt-4">
-                    <div class="card border-0">
+                    <div class="card border-0" data-aos="fade-up">
                         <img src="images/daily8.png" alt="">
                         <div class="card-body px-0">
                             <span>MARCH 17 2023</span>
@@ -109,7 +105,7 @@
                     </div>
                 </div>
                 <div class="col-md-4 mt-4">
-                    <div class="card border-0">
+                    <div class="card border-0" data-aos="fade-up">
                         <img src="images/daily9.png" alt="">
                         <div class="card-body px-0">
                             <span>MARCH 14 2023</span>

@@ -1,31 +1,27 @@
 <?php include 'include/header.php' ?>
-<title>Demo</title>
+<title>If I walk with Jesus</title>
 </head>
 
 <body>
     <?php include 'include/menu.php'; ?>
-    <!-- <div class="preLoader black">
-        <img src="images/logo.png" alt="img">
-    </div>
-    <div class="preLoader white"></div> -->
 
     <section class="innerpage">
-        <h2>About Me</h2>
+        <h2 class="slideOne">About Me</h2>
     </section>
 
     <section class="aboutSection">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8">
-                    <h2 class="heading mt-4">About Me</h2>
-                    <p>Welcome to my page <q>If I had walked with Jesus</q></p>
-                    <p class="para">First off, let me assure you that I am NO expert in the Religious field of study. I
+                    <h2 class="heading mt-4 slideTwo" >About Me</h2>
+                    <p  class="slideTwo">Welcome to my page <q>If I had walked with Jesus</q></p>
+                    <p class="para" data-aos="fade-right">First off, let me assure you that I am NO expert in the Religious field of study. I
                         am an ordinary individual just like you, who is taking this opportunity to share bible study
                         time with you. I like to go slow and imagine myself in that time and wonder what else was going
                         on around what we read. I ask OODLES of questions and most of them won’t be answered here on
                         earth.</p>
 
-                    <p class="para">Over the years I have had many ups and downs in my walk with Jesus, but I have never
+                    <p class="para" data-aos="fade-right">Over the years I have had many ups and downs in my walk with Jesus, but I have never
                         wandered so far away that I couldn’t hear him in the background calling to me. My heart grieves
                         for those who have, but that is not my story. During my walk, especially in the down times, I
                         have come to rely on journaling. It started with simply putting down my thoughts, pain in
@@ -34,7 +30,7 @@
                         journal time I began receiving more of the peace I was so desperately seeking. Is everything
                         peaceful and perfect for me now? Not hardly!!</p>
 
-                    <p class="para">I tried approaching the scriptures through the typical bible study methods (i.e.
+                    <p class="para" data-aos="fade-right">I tried approaching the scriptures through the typical bible study methods (i.e.
                         topical studies, in depth analysis) but always felt lost or unqualified. It wasn’t until I
                         simply read a short passage and wrote about what I had read, while placing myself in that
                         picture, that I felt connected to God’s word. I would imagine what the people around the
@@ -45,14 +41,14 @@
                         me being open and willing with pen and paper ready.</p>
                 </div>
                 <div class="col-lg-4">
-                    <figure class="figure1">
+                    <figure class="figure1"  data-aos="fade-left">
                         <img src="images/aboutjesus.png" class="img-fluid" alt="">
                         <figcaption>Walking with Jesus puzzle</figcaption>
                     </figure>
                 </div>
             </div>
             <div class="row">
-                <div class="col-12">
+                <div class="col-12"  data-aos="fade-right">
                     <p class="para">
                         I have learned so much in this open process. I want to share some of it with you. I want to do
                         this in a couple of ways. First, I want to invite you to walk with me as I slowly look at the
@@ -72,12 +68,12 @@
             </div>
             <div class="row">
                 <div class="col-lg-6">
-                    <figure class="figure2 my-5">
+                    <figure class="figure2 my-5"  data-aos="fade-right">
                         <img src="images/aboutImage.png" class="w-100" alt="">
                         <figcaption>Nannie and her grandbabies Dec. 2013: Top: Damion, Jared. Left: Aurora. Right: Akuma. Lap: Eve, Eli, Cailyn. Nannie: Annette Vincent</figcaption>
                     </figure>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6"  data-aos="fade-left">
                     <p class="para mt-5 pt-3">More about me, in case you are interested.</p>
                     <p class="para">My mom sent me an email recently and told me that I don’t even have my name on my
                         own page. She also wanted me to share some of my personal story too. When I started this blog, I
@@ -97,21 +93,21 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-12">
-                <p class="para">I got my first pair of glasses when I was 13 months old. I had such severe vision
+                <div class="col-12" >
+                <p class="para"  data-aos="fade-right">I got my first pair of glasses when I was 13 months old. I had such severe vision
                         problems that it interfered with my gross motor development. It is a good thing I was born a
                         stubborn child and muscled my way through anyway. I never have been good at taking “no” or
                         “you’ll never be able to do that” for an answer. Just ask my mom about the MANY lessons I had to
                         learn the hard way because of that attitude. But I was also a child who loved to “help”, so my
                         mom got smart and asked for “favors” or “help” to get me to cooperate.</p>
-                    <p class="para">I was first introduced to writing when I was a Sophomore in High School. We had to
+                    <p class="para"  data-aos="fade-right">I was first introduced to writing when I was a Sophomore in High School. We had to
                         keep a journal for my English class. I discovered that I loved to write, especially poetry. I
                         didn’t pick up serious journaling after the assignment was finished, but did begin writing
                         poetry whenever my feelings overwhelmed me to the point that I just HAD to get them out. I wish
                         I still had all the poems I wrote over the years. Check out my book (and blog page) Lessons
                         Learned on Daddy’s Lap if you haven’t already. I returned to journaling while in college the
                         first time because of a Creative Writing class.</p>
-                    <p class="para">Yes, I said “college the first time.” I actually have completed three college
+                    <p class="para"  data-aos="fade-right">Yes, I said “college the first time.” I actually have completed three college
                         degrees and one vocational training program over the years. I initially returned to college to
                         support myself and my children. After 10 years in the military (he did the service and I was the
                         spouse) and 11 years married, my husband decided he didn’t want to be married any more. “I don’t
@@ -123,7 +119,7 @@
                         child support and REFUSED to live forever on government programs. Don’t get me wrong, I truly
                         believe in using whatever is available when you need it, but government programs are supposed to
                         be used as a hand up, not a hand out</p>
-                    <p class="para">After graduating college the first time with my Associates degree in Occupational
+                    <p class="para"  data-aos="fade-right">After graduating college the first time with my Associates degree in Occupational
                         Therapy, my children and I moved from Oregon to Tennessee. I drove the Ryder truck with my van
                         on a car trailer behind it, while my children read the maps and street signs. It took us four
                         and a half days to complete our trip to our “new future.” We remained in the Eastern part of the
@@ -135,7 +131,7 @@
                         hospital to stay with my children and, once I lost my job, my dad flew out and we all “wagon
                         trained” back to Oregon.
                     </p>
-                    <p class="para">This was a very dark time for me and only through faith in God, journaling, and MUCH
+                    <p class="para"  data-aos="fade-right">This was a very dark time for me and only through faith in God, journaling, and MUCH
                         support (including counseling and medication) did I survive it. I fought suicidal urges on a
                         near daily basis for several years. VERY FEW people know how bad it got inside, but my post
                         “From the Caterpillar to the Butterfly” is a thank You letter to God for carrying me through it.
@@ -146,7 +142,7 @@
                         shining moment in that dark place was the birth of my first grandson, Damion. He is my oldest
                         son Don’s oldest son.
                     </p>
-                    <p class="para">While working at the naturopathic clinic I met my wonderful husband, Steve. I had
+                    <p class="para"  data-aos="fade-right">While working at the naturopathic clinic I met my wonderful husband, Steve. I had
                         been single and faithful to my children alone for twelve years. I only had two dates during
                         those years. I refused to subject my children to a string of boyfriends and step parent
                         relationships that might not work out. They, and I, had been badly hurt once and I wasn’t taking
@@ -158,7 +154,7 @@
                         my count of children. Steve’s daughter Stevena, and his son Jon merged with my bunch. We are now
                         “my four and two more.”
                     </p>
-                    <p class="para">I left both jobs that I had found after graduating for a position with Miracle Ear.
+                    <p class="para"  data-aos="fade-right">I left both jobs that I had found after graduating for a position with Miracle Ear.
                         I served many wonderful people through that office for five years. One of the scholarships I
                         received during my last time in college offered me the opportunity to continue on in school if I
                         wanted to. At this point in my life I was finally in a good place emotionally and wanted to help
@@ -171,7 +167,7 @@
                         by the time I graduated, he was not safe to remain home alone. I willingly chose to become his
                         caregiver, and was mercifully able to do so through a program that pays me to provide his care.
                     </p>
-                    <p class="para">Through the years we have also added many members to our ever growing family. We
+                    <p class="para"  data-aos="fade-right">Through the years we have also added many members to our ever growing family. We
                         welcomed our eighth grandchild in 2015 and my middle son and his wife are actively trying to
                         bless us with a ninth. We have (in birth order) Damion and Jared (Don’s sons), Akuma and Aurora
                         (Kelyana’s son and daughter), Eve (Jon’s daughter), Cailyn (Joseph’s daughter), Eli (Jon’s son),
@@ -181,7 +177,7 @@
                         often. Eve and Eli live about a four hour drive away. We don’t get to see them as often as we
                         would like to, but Facebook lets us peek in on their lives a lot more often.
                     </p>
-                    <p class="para">I guess I will end with my hobbies and interests. I LOVE music! I sing every chance
+                    <p class="para"  data-aos="fade-right">I guess I will end with my hobbies and interests. I LOVE music! I sing every chance
                         I get. I just sang for the first time at a funeral last week for my husband’s step mother. I
                         have always loved children and have ministered to them through many different avenues, but
                         especially enjoy just playing with them on their level. Cailyn and I had a princess/animal party
@@ -191,7 +187,7 @@
                         most any children’s book. I LOVE reading to my grandchildren and making the characters come
                         alive with different voices for each. My two favorite children’s books are Love you forever by
                         Robert Munsch and The Monster at the End of the Book by Jon Stone.</p>
-                    <p class="para">If you have any questions that I didn’t answer or questions raised by what I did
+                    <p class="para"  data-aos="fade-right">If you have any questions that I didn’t answer or questions raised by what I did
                         share, feel free to leave a comment and I will get back to you. I hope you enjoyed meeting me
                         and that we have a long friendship ahead of us.</p>
                 </div>

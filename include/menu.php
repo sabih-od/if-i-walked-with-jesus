@@ -1,8 +1,8 @@
 <!-- Begin: Header -->
 
 <header class="">
-    <div class="">
-        <div class="">
+    <div class="main-navigate">
+        <div class="an-navbar">
             <div class="container">
                 <div class="top-nav d-flex justify-content-between py-3">
                     <div class="social-links">
@@ -19,9 +19,6 @@
                     </div>
                 </div>
                 <nav class="navbar navbar-expand-lg p-0">
-                    <!-- <a class="navbar-brand" href="index.php">
-                        <img src="images/logo.png" alt="img">
-                    </a> -->
                     <button class="navbar-toggler" type="button" data-toggle="collapse"
                         data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
@@ -68,3 +65,11 @@
 </header>
 
 <!-- END: Header -->
+
+
+<!-- Preloader -->
+<div class="preLoader black">
+        <img src="images/logo.png" alt="img"  data-aos="zoom-out" data-aos-delay="300">
+    </div>
+    <div class="preLoader white"></div>
+<!-- END : Preloader -->
